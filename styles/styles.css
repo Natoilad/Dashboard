@@ -57,7 +57,7 @@ body {
   width: 37px;
   height: 37px;
 }
-.logo:hover {
+.logo-img:hover {
   fill: #00b087;
 }
 
@@ -323,7 +323,7 @@ td {
   height: 32px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 677px) {
   .main-dashbord {
     width: 100%;
     margin: 0;
