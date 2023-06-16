@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Poppins";
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -168,9 +168,10 @@ th {
 }
 td {
   padding: 24px 0;
+  color: #292d32;
 }
 .button {
-  font-family: "Poppins";
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
