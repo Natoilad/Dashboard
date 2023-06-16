@@ -313,11 +313,11 @@ td {
   align-items: center;
 }
 
-.open-mobile-menu-btn {
+.open-menu-btn {
   background-color: transparent;
   border: none;
 }
-.open-mobile-menu-btn__icon {
+.open-menu-btn__icon {
   opacity: 0.5;
   width: 32px;
   height: 32px;
@@ -329,7 +329,7 @@ td {
     margin: 0;
     padding: 10px;
   }
-  .mobile-menu {
+  .menu {
     display: none;
   }
   th {
@@ -338,10 +338,10 @@ td {
 }
 
 @media screen and (min-width: 678px) {
-  .open-mobile-menu-btn {
+  .open-menu-btn {
     display: none;
   }
-  .mobile-menu {
+  .menu {
     display: flex;
   }
 }
